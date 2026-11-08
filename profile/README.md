@@ -9,4 +9,4 @@
 - 🖥️ **Desktop app:** [collaborative-brick-layout-designer/desktop](https://github.com/collaborative-brick-layout-designer/desktop) ([download the latest release](https://github.com/collaborative-brick-layout-designer/desktop/releases/latest))
 - 🌐 **Web app and server:** [collaborative-brick-layout-designer/web](https://github.com/collaborative-brick-layout-designer/web)
 
-Have an old link? Swap `brick-layout-designer` for `collaborative-brick-layout-designer` in it. Your layouts, files and accounts carry over unchanged.
+Old links to the repositories (`brick-layout-designer/brick-layout-designer` and `brick-layout-designer/collaborative-brick-layout-designer`) still redirect to the new ones. Your layouts, files and accounts carry over unchanged.
